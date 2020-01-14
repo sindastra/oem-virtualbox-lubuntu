@@ -8,6 +8,8 @@ I decided to share this in the hope that it will be useful.
 
 Since GitHub does now allow files in releases bigger than 2 GB, the releases in the releases page will link to an external site where to obtain the images from. To quickly check the file was not corrupted during transfer I provide a SHA256 file. For security I provide a signature file for both the SHA256 file and the image file itself. You can get my public key from https://keybase.io/sindastra where you can also obtain "proof".
 
+Releases page: https://github.com/sindastra/oem-virtualbox-lubuntu/releases
+
 ## Image info:
 
 #### Kernel:
