@@ -35,7 +35,9 @@ I decided to share this in the hope that it will be useful.
 
 #### Get images from:
 
-RELEASES PAGE https://github.com/sindastra/oem-virtualbox-lubuntu/releases
+~~RELEASES PAGE https://github.com/sindastra/oem-virtualbox-lubuntu/releases~~
+
+Seems the file is too big for GitHub releases...
 
 #### Commands:
 
