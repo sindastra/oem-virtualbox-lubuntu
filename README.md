@@ -1,5 +1,11 @@
 # VirtualBox Lubuntu LTS (HWE) Image - Ready to use
 
+I created this to have easy, ready to use images for myself when I quickly need a disposable Linux Desktop VM.
+
+I decided to share this in the hope that it will be useful.
+
+## Image info:
+
 #### Kernel:
 
     Linux VirtualBox 5.0.0-37-generic #40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
@@ -13,15 +19,23 @@
     
 #### VirtualBox Guest Additions installed:
 
-6.1.0
+ - 6.1.0
 
 #### Tested on:
 
-6.1.0 r135406
+ - 6.1.0 r135406
 
 #### Creation Date:
 
-2020-01-14 21:03 UTC
+ - 2020-01-14 21:03 UTC
+
+#### Fully updated before packing:
+
+- Yes.
+
+#### Get images from:
+
+RELEASES PAGE https://github.com/sindastra/oem-virtualbox-lubuntu/releases
 
 #### Commands:
 
